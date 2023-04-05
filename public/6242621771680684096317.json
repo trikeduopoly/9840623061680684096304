@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889505115561",
+    "project_id": "pinjaman-online-tenor-2-bulan",
+    "storage_bucket": "pinjaman-online-tenor-2-bulan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889505115561:android:0bbef98890d7caa817a8b8",
+        "android_client_info": {
+          "package_name": "com.pinjamanonlinetenor2bulan.pinjolcraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889505115561-92bqf11npq7uk7oqao3nqpe66kaojs2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWb3zWH9j0i119OhHX9B_ewD_ktX0RAkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889505115561-92bqf11npq7uk7oqao3nqpe66kaojs2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
